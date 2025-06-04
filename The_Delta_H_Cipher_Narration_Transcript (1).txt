@@ -1,0 +1,13 @@
+This is the Delta-H Cipher.
+The hidden formula behind all communicative precision.
+At its core: Utility equals Delta times H.
+Delta — Belief Update Strength.
+H — Contextual Entropy.
+U — Communicative Utility.
+When Delta rises, belief shifts dramatically.
+When H is high, uncertainty invites update.
+But when either is zero, utility collapses.
+So remember:
+Speak only when Delta > 0 and H > 0.
+Anything else is just pragmatic noise.
+Language is not random. It is encrypted with entropy.
